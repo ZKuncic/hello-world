@@ -1,3 +1,4 @@
 # hello-world
-Test repository
+Test repository.
+
 First go at this - gotta start somewhere.
